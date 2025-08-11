@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header{
+    background-color: darkcyan;
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.conteudo-principal{
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.sobre{
+    background-color: darkcyan;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.experiencia{
+    background-color: darkcyan;
+    color: aliceblue;
+}
+
+.rodape{
+    background-color: darkcyan;
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    text-decoration: underline;
+    bottom: 0;
+}
