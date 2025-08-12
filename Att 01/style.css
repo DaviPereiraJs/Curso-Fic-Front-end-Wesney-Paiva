@@ -6,7 +6,7 @@ body {
             line-height: 1.6;
         }
 
-        header {
+        #cabeca {
             background: linear-gradient(90deg, #0077cc, #00aaff);
             color: white;
             padding: 20px;
@@ -44,13 +44,13 @@ body {
             font-style: italic;
         }
 
-        main {
+        .corpo {
             max-width: 900px;
             margin: auto;
             padding: 20px;
         }
 
-        section {
+        .sections {
             background: white;
             margin-bottom: 20px;
             padding: 20px;
@@ -93,9 +93,10 @@ body {
             background-color: #f0f8ff;
         }
 
-        footer {
+        #rodape {
             background-color: #0077cc;
             color: white;
+            position: relative;
             text-align: center;
             padding: 10px;
             margin-top: 20px;
