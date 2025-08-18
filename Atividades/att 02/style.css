@@ -1,0 +1,14 @@
+/* Ajustes personalizados */
+body {
+  scroll-behavior: smooth;
+}
+
+h2 {
+  color: #007bff;
+  font-weight: bold;
+}
+
+footer p {
+  margin: 0;
+  font-size: 0.9rem;
+}
